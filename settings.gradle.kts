@@ -1,0 +1,1 @@
+rootProject.name = "QA_guru_37_git"
